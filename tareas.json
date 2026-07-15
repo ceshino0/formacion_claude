@@ -1,14 +1,18 @@
 [
   {
-    "texto": "Validar pago en Olearys",
-    "completada": false
-  },
-  {
-    "texto": "Iniciar clase de ingles",
-    "completada": true
-  },
-  {
     "texto": "Test de nivel de inglés",
     "completada": true
+  },
+  {
+    "texto": "Iniciar Jira Software",
+    "completada": false,
+    "prioridad": "alta",
+    "fecha_limite": "2026-07-16"
+  },
+  {
+    "texto": "Validar pago Olearys",
+    "completada": true,
+    "prioridad": "alta",
+    "fecha_limite": "2026-07-15"
   }
 ]
